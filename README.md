@@ -5,5 +5,4 @@ I should write something about myself. This is what the GitHub tutorial is askin
 
 So here it is!
 
-My self.
-
+My self?
